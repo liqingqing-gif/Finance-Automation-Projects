@@ -24,9 +24,15 @@
 
 ## 如何使用
 1.  将银行回单、发票等原始数据放入 `input` 文件夹。
-2.  运行主程序：`凭证&回单整理_自动化.py`。
-3.  结果将输出在 `data/output` 文件夹。
+2.  运行主程序：`凭证&回单整理_自动化.ipynb`。
+3.  结果将输出在 `output` 文件夹，其中，运行过程中产生的文件输出在`process`文件夹，可自行查看。
 
 ## 项目截图
-（如果可以，上传一张程序运行的结果截图或图表）
+<img width="664" height="828" alt="image" src="https://github.com/user-attachments/assets/f8731b88-a68e-4b6b-b0dc-bc105c4311d4" />
+<img width="1041" height="690" alt="image" src="https://github.com/user-attachments/assets/9e737531-0579-488c-b85b-28f48533dca8" />
+<img width="715" height="120" alt="image" src="https://github.com/user-attachments/assets/fdfdb40c-176b-4fb7-91eb-fb4ce8ea501c" />
+<img width="500" height="705" alt="image" src="https://github.com/user-attachments/assets/27695c37-81f7-42c6-9c23-a360de2302b6" />
+
+
+
 
